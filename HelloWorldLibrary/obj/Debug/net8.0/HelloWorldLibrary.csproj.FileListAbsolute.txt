@@ -1,0 +1,12 @@
+/workspaces/artifacts/HelloWorldLibrary/bin/Debug/net8.0/HelloWorldLibrary.deps.json
+/workspaces/artifacts/HelloWorldLibrary/bin/Debug/net8.0/HelloWorldLibrary.dll
+/workspaces/artifacts/HelloWorldLibrary/bin/Debug/net8.0/HelloWorldLibrary.pdb
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.AssemblyInfoInputs.cache
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.AssemblyInfo.cs
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.csproj.CoreCompileInputs.cache
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.sourcelink.json
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.dll
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/refint/HelloWorldLibrary.dll
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/HelloWorldLibrary.pdb
+/workspaces/artifacts/HelloWorldLibrary/obj/Debug/net8.0/ref/HelloWorldLibrary.dll
